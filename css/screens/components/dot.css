@@ -1,0 +1,17 @@
+.dot {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: tomato;
+}
+
+.dot__more {
+  position: absolute;
+  left: 30px;
+}
+
+.dot__cog {
+  position: absolute;
+  right: -10px;
+  top: 0px;
+}
