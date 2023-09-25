@@ -8,16 +8,22 @@
 @import "screens/components/user-component.css";
 @import "screens/components/badge.css";
 @import "screens/components/dot.css";
+@import "screens/components/icon-row.css";
+@import "screens/components/alt-screen-header.css";
+@import "screens/components/no-mobile.css";
 
 /* Screens */
 @import "screens/login.css";
 @import "screens/friends.css";
 @import "screens/find.css";
+@import "screens/more.css";
+@import "screens/settings.css";
+@import "screens/chat.css";
 
 body {
   color: #292929;
   font-family: "Open Sans", sans-serif;
-  height: 100%;
+  
 }
 
 .main-screen {
